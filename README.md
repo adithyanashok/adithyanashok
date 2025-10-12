@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Flutter Developer<br>👯 I’m looking to collaborate on Flutter projects<br>🌱 I’m currently upskilling flutter<br>💬 Ask me about Flutter Development
+🔭 I’m a Full Stack Developer<br>👯 I’m looking to collaborate on React Native, Flutter and NodeJs projects<br>🌱 I’m currently upskilling Full Stack Development<br>💬 Ask me about Full Stack Development
 
 
 ## 🌐 Socials:

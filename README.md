@@ -70,6 +70,13 @@
 
 ## 🚀 Featured Projects
 
+### 🏥 GetADoctor - Healthcare Marketplace Platform *(Client Project)*
+> Built a multi-portal healthcare marketplace connecting patients with hospitals, clinics, doctors, and diagnostic labs. 
+- Architected modular REST APIs with NestJS, TypeORM, and PostgreSQL covering providers, doctors, treatments, bookings, subscriptions, and marketplace content.
+- Developed a unified marketplace search engine with fuzzy matching, ranking, category filtering, suggestions, and location-based relevance.
+- Integrated Razorpay subscriptions for provider subscription management.
+- Containerized services with Docker and automated CI/CD using GitHub Actions.
+
 ### 🏦 Wise Banker – Finance Tracker *(Client Project)*
 > Personal finance mobile app with **1000+ downloads** on Google Play Store
 - Built RESTful APIs with Firebase Cloud Messaging for real-time notifications
